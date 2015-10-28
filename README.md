@@ -4,6 +4,7 @@
 
 ![image](https://github.com/lcokean/pickdatetime/blob/master/art/timepicker.gif)
 
+[ ![Download](https://api.bintray.com/packages/pengjian1993/maven/pickdatetime/images/download.svg) ](https://bintray.com/pengjian1993/maven/pickdatetime/_latestVersion)
 HOW TO USE
 -----------
 
