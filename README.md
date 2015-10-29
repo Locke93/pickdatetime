@@ -8,12 +8,15 @@
 HOW TO USE
 -----------
 
-
+``` Java
 dependencies {
     compile 'com.github.lcokean:pickdatetime:0.1'
 }
+```
 
 
+
+```Java
 //DatePick
 mDatePick.setOnClickListener(new OnClickListener() {
 @Override
@@ -29,7 +32,6 @@ public void onClick(View v) {
     mChangeBirthDialog.show();
     mChangeBirthDialog
             .setDatePickListener(new DatePickerDialog.OnDatePickListener() {
-
                 @Override
                 public void onClick(String year, String month,
                                     String day) {
@@ -98,3 +100,4 @@ public void onClick(View v) {
             });
 }
 });
+```
