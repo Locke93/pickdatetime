@@ -30,7 +30,6 @@ public class MainActivity extends Activity {
         rbnDialogMode.setChecked(true);
 
         mDatePick.setOnClickListener(new OnClickListener() {
-
             @Override
             public void onClick(View v) {
                 // TODO Auto-generated method stub
